@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 List of projects
 
-## [Yelp Explatory Data Analysis](Yelp NLP Analysis/Yelp-Review-NLP-Analysis.ipynb)
+## [Yelp Explatory Data Analysis](https://github.com/ccalixwoc/Data-Science-Portfolio/blob/master/Yelp%20NLP%20Analysis/Yelp-Review-NLP-Analysis.ipynb)
 
 
 Objectives:
