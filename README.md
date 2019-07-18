@@ -12,5 +12,5 @@ This is a repository with some of my data science projects dedicated to showcase
 
 
 ## [Surge Neuroscience Hackathon](https://github.com/ccalixwoc/Data-Science-Portfolio/blob/master/Surge-Neuroscience-Hackathon/Surge-Neuroscience-Hackathon.ipynb)
-
-An interdisciplinary competition, where me and my teammates 
+### Objectives:
+* Run a proof of concept on attractiveness classification for an interdisciplinary competition, focused on computer science and neuroscience. This project got us the second place of the competition.
