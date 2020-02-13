@@ -15,3 +15,8 @@ This is a repository with some of my data science projects dedicated to showcase
 ### Objectives:
 * Run a proof of concept on attractiveness classification for an interdisciplinary competition, focused on computer science and neuroscience. This project got us the second place of the competition.
 * Apply machine learning algorithms for supervised learning applications
+
+
+
+## [Psychographic Profiling Using Twitter Data, NLP and ML Techniques]
+* Use Machine Learning and Natural Language Processing techniques to create a model to distinguish charitable donors from random users based on social media activity
