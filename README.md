@@ -18,5 +18,6 @@ This is a repository with some of my data science projects dedicated to showcase
 
 
 
-## [Psychographic Profiling Using Twitter Data, NLP and ML Techniques]
+## [Psychographic Profiling Using Twitter Data, NLP and ML Techniques] (Coming soon...)
+### Objectives:
 * Use Machine Learning and Natural Language Processing techniques to create a model to distinguish charitable donors from random users based on social media activity
