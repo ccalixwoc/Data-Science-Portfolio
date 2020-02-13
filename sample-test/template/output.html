@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Psychographic Profiling</title>
+    <meta charset="UTF-8">
+    <meta name="author" content="ECMM 7051">
+    <meta name="description" content="Homepage">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{url_for('static', filename = 'style.css')}}">
+</head>
+
+<body>
+    <div class="left-panel">
+        <div class="brand">
+            <img id='logo' src="{{url_for('static', filename = 'tweetlogo.png')}}" alt="tweeter logo">
+            <h1 id='title'>PsychoTweeting</h1>
+        </div>
+        <div class="quote">
+            <h2>
+				"Get closer than ever to your customers. So close that you tell them what they need well before they realize it themselves."
+				<br>
+				<br>
+				Steve Jobs
+				</h2>
+        </div>
+    </div>
+    <div class="right-panel">
+        <div class="menu">
+            <nav class="navbar navbar-expand-lg">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ">
+                        <li class="nav-item active">
+                            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">About Us</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="#">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+            </nav>
+        </div>
+        <br>
+        <br>
+        <br>
+        <br>
+        <div class="ml-processor">
+            <h4>
+                    {{a_user}}
+                </h4>
+        </div>
+    </div>
+</body>
+
+</html>
+
+<!--este link es la magia-->
+<!--https://www.youtube.com/watch?v=AEM8_4NBU04-->
